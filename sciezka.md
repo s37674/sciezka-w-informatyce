@@ -13,3 +13,15 @@ Jestem studentem pierwszego roku informatyki. Interesuję się tworzeniem narzę
 1. Opanowanie zaawansowanych mechanizmów kontroli wersji w Git.
 2. Zbudowanie solidnego portfolio webowego na GitHubie.
 3. Rozwój wiedzy w zakresie architektury komputerowej.
+
+---
+
+## Umiejętności i narzędzia
+
+| Kategoria | Technologie / Narzędzia |
+|---|---|
+| **Web Dev** | HTML, CSS |
+| **Narzędzia** | Git, GitHub, VS Code |
+| **Inne** | Obsidian, Markdown |
+
+[Link do mojego profilu GitHub](https://github.com/s37674)
