@@ -1,4 +1,4 @@
-# [Twoje Imię i Nazwisko]
+# [Jedrzej Kilian]
 
 > Pasjonat technologii, student IT i twórca baz wiedzy.
 
